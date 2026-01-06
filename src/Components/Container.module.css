@@ -1,0 +1,12 @@
+.cont{
+    background: #d8d3d3;
+    padding: 20px;
+    border-radius: 14px;
+    max-width: 400px;
+    margin: 40px auto;
+    
+    
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}

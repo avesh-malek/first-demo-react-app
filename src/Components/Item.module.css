@@ -1,0 +1,35 @@
+.item{
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    list-style: none;
+
+}
+.remove{
+    background: #ff4d4d;
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.Change{
+     background: #615a5a;
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.buttondiv {
+    display: flex;
+    gap: 4px;
+}
+.back{
+    background-color: #d1ffd6;
+}
